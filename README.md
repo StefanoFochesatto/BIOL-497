@@ -1,5 +1,5 @@
 # BIOL-497
-University of Alaska Biol 497 Machine Learning in the Cloud
+University of Alaska BIOL 497 Machine Learning in the Cloud
 
 ## Description
 This direct study taught the foundations and the applications of machine learning and it's software in the
